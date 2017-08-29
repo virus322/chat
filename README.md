@@ -1,5 +1,5 @@
-# Tabchi V1.0
-Edited and Improved by virus32
+# چت ناشناس 
+ by virus32
 
 ## Install
 ```bash
